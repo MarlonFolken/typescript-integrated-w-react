@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Additional instalation of Bulma CSS using
+
+    npm install -S bulma
+
 ## Available Scripts
 
 In the project directory, you can run:
